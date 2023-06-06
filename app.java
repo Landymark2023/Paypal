@@ -8,3 +8,6 @@ java apps
 NodeJS apps
 python app
 web apps bug is removed
+great
+This app is excellent
+This app is excellent for all users
